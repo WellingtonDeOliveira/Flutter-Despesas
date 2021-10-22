@@ -18,7 +18,7 @@
 <h1 align="center">
   <h1>Cadastro de despesas</h1>
   <center>
-  <img alt="Expenses" title="Gerencia" src="./github/flutter.gif" />
+  <img alt="Expenses" title="Gerencia" src="./github/flutter.gif" height=350px/>
   </center>
 
 </h1>
