@@ -16,7 +16,7 @@
 
 ### Características
 <h1 align="center">
-  <h1>Cadstro de despesas</h1>
+  <h1>Cadastro de despesas</h1>
   <center>
   <img alt="Expenses" title="Gerencia" src="./github/flutter.gif" />
   </center>
